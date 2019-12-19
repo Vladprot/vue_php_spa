@@ -4,5 +4,9 @@ this repo SPA (vue+php+mysql)
 1) Фронт часть(vue+axios).
 2)Бэкэнд(php+mysql)
 Модель решения данного тз используется SPA(single page application), вместо MVC . 
-http://testvue.zzz.com.ua/ ссылка ведет на самый первый прототип тестового задания.
+
+
+http://testvue.zzz.com.ua/
+ссылка ведет на самый первый прототип Тестового задания . 
+
 
